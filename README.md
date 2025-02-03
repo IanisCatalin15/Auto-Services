@@ -18,7 +18,7 @@ Auto Services App is an iOS application built using SwiftUI. The app allows user
 ## Installation & Setup
 1. Clone the repository from GitHub:
    ```sh
-   git clone https://github.com/your-username/Auto-Services-App.git
+   git clone https://github.com/Vipex15/Auto-Services-App.git
    ```
 2. Open the project in Xcode:
    ```sh
@@ -50,4 +50,4 @@ This project is licensed under the MIT License.
 ## Contact
 For any questions, feel free to reach out!
 - Email: ianiscatalin15@gmail.com
-
+- GitHub: [Vipex15](https://github.com/Vipex15)
