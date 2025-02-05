@@ -50,4 +50,4 @@ This project is licensed under the MIT License.
 ## Contact
 For any questions, feel free to reach out!
 - Email: ianiscatalin15@gmail.com
-- GitHub: [Vipex15](https://github.com/Vipex15)
+- GitHub: [IanisCatalin15](https://github.com/IanisCatalin15)
